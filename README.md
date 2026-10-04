@@ -1,5 +1,5 @@
 # hacki-bhai-
-# Hi there! 👋 I'm Piyush Mandhare
+# Hi there! 👋 I'm Hacki
 
 ### 🎓 Engineering Student | Aspiring Developer
 
