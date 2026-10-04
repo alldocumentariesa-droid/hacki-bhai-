@@ -22,12 +22,12 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — JanSetu AI  [View project](https://github.com/alldocumentariesa-droid/code-commit.git)
+- **My First Project** —   [View project](https://github.com/alldocumentariesa-droid/code-commit.git)
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@piyush-devx](https://github.com/piyush-devx10)
-- 🔗 LinkedIn: [Piyush Mandhare](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
+- 💻 GitHub: [@piyush-devx](https://github.com/alldocumentariesa-droid)
+  
 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
